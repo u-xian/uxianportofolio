@@ -230,7 +230,11 @@ function App() {
                     </div>
                   </div>
                   <div className="mt-4">
-                    <a href="#" className="btn btn-primary">
+                    <a
+                      href="/Resume.pdf"
+                      download="MyResume.pdf"
+                      className="btn btn-primary"
+                    >
                       <i className="bi bi-download"></i>
                       Download Resume
                     </a>
@@ -349,8 +353,11 @@ function App() {
                         Entity Framework
                       </span>
                     </div>
-                    <a href="#" className="btn btn-outline-dark btn-sm">
-                      View Project
+                    <a
+                      href="https://github.com/uxian/Agent-to-Agent-Balance-Transfer"
+                      className="btn btn-outline-dark btn-sm"
+                    >
+                      View GitHub
                     </a>
                   </div>
                 </div>
@@ -378,7 +385,10 @@ function App() {
                         Entity Framework
                       </span>
                     </div>
-                    <a href="#" className="btn btn-outline-dark btn-sm">
+                    <a
+                      href="https://github.com/uxian/Purchase-Airtime-with-Mobile-Financial-Services"
+                      className="btn btn-outline-dark btn-sm"
+                    >
                       View GitHub
                     </a>
                   </div>
@@ -407,8 +417,11 @@ function App() {
                         Postgresql
                       </span>
                     </div>
-                    <a href="#" className="btn btn-outline-dark btn-sm">
-                      Case Study
+                    <a
+                      href="https://github.com/uxian/ScratchCards-Management-System"
+                      className="btn btn-outline-dark btn-sm"
+                    >
+                      View GitHub
                     </a>
                   </div>
                 </div>
@@ -434,8 +447,11 @@ function App() {
                         SSIS, SSRS
                       </span>
                     </div>
-                    <a href="#" className="btn btn-outline-dark btn-sm">
-                      Case Study
+                    <a
+                      href="https://github.com/uxian/Rerating-Engine"
+                      className="btn btn-outline-dark btn-sm"
+                    >
+                      View GitHub
                     </a>
                   </div>
                 </div>
@@ -460,8 +476,11 @@ function App() {
                         Postgresql
                       </span>
                     </div>
-                    <a href="#" className="btn btn-outline-dark btn-sm">
-                      Case Study
+                    <a
+                      href="https://github.com/uxian/eRetailShop"
+                      className="btn btn-outline-dark btn-sm"
+                    >
+                      View GitHub
                     </a>
                   </div>
                 </div>
@@ -481,8 +500,11 @@ function App() {
                         Python
                       </span>
                     </div>
-                    <a href="#" className="btn btn-outline-dark btn-sm">
-                      Case Study
+                    <a
+                      href="https://github.com/uxian/CDR-Generating"
+                      className="btn btn-outline-dark btn-sm"
+                    >
+                      View GitHub
                     </a>
                   </div>
                 </div>
